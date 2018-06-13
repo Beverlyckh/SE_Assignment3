@@ -1,3 +1,9 @@
+/*
+ * Beverly Ackah
+ * SE Assignment #3
+ * 
+ */
+
 import java.util.NoSuchElementException;
 
 public class LinkedStackFixed<Item>{
